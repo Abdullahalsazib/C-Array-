@@ -7,3 +7,5 @@ int main()
     
     return 0;
 }
+
+// git config-- global user.email "you@example.com"
